@@ -18,10 +18,10 @@ Take a look at my projects below:
 <br>
 <a href="https://www.youtube.com/watch?v=fv1IlAWsVhk">Fluids (MAE 3230) final project</a>
 <br>
-<a href="https://drive.google.com/file/d/1m9yqO4QKA9LFQAKzlXLUlyZJY-D3p-LZ/view?usp=sharing">Systems (MAE 3260) final project</a> 
+<a href="https://drive.google.com/file/d/1m9yqO4QKA9LFQAKzlXLUlyZJY-D3p-LZ/view?usp=sharing">Systems (MAE 3260) final project</a> I gave a rundown of the pneumatic driver's inner workings and estimated its torque output from pressure drop and mass flow rate. 
 <br>
 <a href="https://drive.google.com/file/d/13KWqBKm4KxAQD5LLw6KQWICCQrUfWv-v/view?usp=sharing">Materials (MAE 3270) final project</a>
 <br>
-Engineers & Society (MAE 4300) final project
+<a href="https://drive.google.com/file/d/1iBsHK1u7QJ_clizPJ-MsUx6LPVmPXiha/view?usp=sharing"> Engineers & Society (MAE 4300) final project </a>
 
 
